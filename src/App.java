@@ -4,8 +4,6 @@ import db.Inserter;
 import java.io.IOException;
 import java.sql.SQLException;
 
-// vreo 1230 linii, ebati
-
 public class App {
     public static void main(String[] args) {
 
