@@ -1,0 +1,1 @@
+In this package it is implemented the Composite Design Pattern for a better use of the toRows() method
