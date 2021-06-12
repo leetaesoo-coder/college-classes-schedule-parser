@@ -1,15 +1,3 @@
-## Getting Started
+# College Classes Schedule Parser
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
-"# College Classes Schedule Parser" 
+Classes Schedule Parser for my college classes. The program opens the college's website using Selenium and gets the data about my classes. Using the Composite Design Pattern and the Mediator Design Pattern I implemented a parsing algorithm. After the parsing the data is inserted in a MySQL database.
